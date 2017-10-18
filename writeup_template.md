@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image1]: ./examples/visualization_train.jpg "Visualization Train"
 [image3]: ./examples/visualization_test.jpg "Visualization Test"
 [image2]: ./examples/visualization_validation.jpg "Visualization Validation"
-[image4]: ./examples/grayscale.jpg "GrayScale"
+[image4]: ./examples/grayscale.png "GrayScale"
 [image5]: ./web-data/30kph.jpg "30 kmp"
 [image6]: ./web-data/children-crossing.jpg "Child Crossing"
 [image7]: ./web-data/keep_left.jpg "Keep Left"
@@ -69,7 +69,7 @@ The frequency distribution indicates that the data is skewed towards certain cla
 
 As a first step, I decided to convert the images to grayscale because that reduces the size of my feature vector. It also equilizes variations in colors. 
 
-Here is an example of a traffic sign image before and after grayscaling.
+Here is an example of a traffic sign image after grayscaling.
 
 ![alt text][image4]
 
