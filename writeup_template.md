@@ -22,12 +22,12 @@ The goals / steps of this project are the following:
 [image1]: ./examples/visualization_train.jpg "Visualization Train"
 [image3]: ./examples/visualization_test.jpg "Visualization Test"
 [image2]: ./examples/visualization_validation.jpg "Visualization Validation"
-[image4]: ./examples/grayscale "GrayScale"
+[image4]: ./examples/grayscale.jpg "GrayScale"
 [image5]: ./web-data/30kph.jpg "30 kmp"
 [image6]: ./web-data/children-crossing.jpg "Child Crossing"
 [image7]: ./web-data/keep_left.jpg "Keep Left"
 [image8]: ./web-data/Right-of-way.jpg "Right of way"
-[image9]: ./web-data/Road works.jpg "Road Works"
+[image9]: ./web-data/Roadworks.jpg "Road Works"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
